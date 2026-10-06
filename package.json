@@ -1,0 +1,12 @@
+{
+  "name": "fight-syndicate-site",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Fight Syndicate — public homepage (visual checkpoint)",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "fetch-assets": "node scripts/fetch-assets.mjs"
+  },
+  "engines": { "node": ">=18" }
+}
